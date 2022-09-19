@@ -35,12 +35,13 @@ var flashObj={
   topLayer: {name: "nav"},
   middleLayer: {
     index:{name:"index"},
+    game:{name:"game"},
   },
   asset: {
 
   },
-  firstPage: 'index',
-  firstload: ['index'],
+  firstPage: 'game',
+  firstload: ['game'],
   preload: [],
   preloadNum: 1,
 };
